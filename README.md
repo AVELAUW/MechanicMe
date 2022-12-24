@@ -1,2 +1,2 @@
 # MechanicMe
-https://eclipse04.github.io/MechanicMe/
+https://avelauw.github.io/MechanicMe/
